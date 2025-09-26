@@ -1,4 +1,4 @@
-# Chat AI Loader Demo UX
+# Chat Loader Demo UX
 
 Este projeto demonstra um comportamento de carregamento animado para um chat AI, onde a resposta exibida varia de acordo com a complexidade da interação.
 
