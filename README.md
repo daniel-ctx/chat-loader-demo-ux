@@ -87,5 +87,4 @@ Este projeto demonstra um comportamento de carregamento animado para um chat AI,
 - Efeito Typewriter → todas as frases (passos e subpassos) aparecem como se estivessem sendo digitadas.
 - Loader animado na resposta única simples
 - Loader animado na resposta complexa apenas nos subpassos (ThreeDots - react-loader-spinner)
-Estilização: TailwindCSS para destacar passos ativos e suavizar os anteriores
 
