@@ -69,8 +69,11 @@ Este projeto demonstra um comportamento de carregamento animado para um chat AI,
 → Logo antes da mensagem real da IA, o estado é exibido assim:
 
 > Passo Preparando ambiente de análise
+
 > Passo Coletando dados relevantes
+
 > Passo Processando informações 3/4
+
 > ... Aplicando filtros...
 
 → E em seguida, aparece a resposta final do chat.
