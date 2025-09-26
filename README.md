@@ -1,5 +1,7 @@
 # Chat Loader Demo UX
 
+https://daniel-ctx.github.io/chat-loader-demo-ux/
+
 Este projeto demonstra um comportamento de carregamento animado para um chat AI, onde a resposta exibida varia de acordo com a complexidade da interação.
 
 
